@@ -3,6 +3,7 @@ Step Two: Decide on crust
 Step Three: Decide on sauce
 Step Four: Decide on cheese
 Step Five: Decide on additional toppings
-Step Six: Order
-Step Seven: Get pizza
-Setp Eight: Enjoy!
+Step Six: Add to cart
+Step Seven: Pay
+Step Eight: Get pizza
+Setp Nine: Enjoy!
